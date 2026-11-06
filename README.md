@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Srishti Chadha! 👋
 
-<!--
-**12srishti34/12srishti34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 BCA Graduate from JIMS, GGSIPU.
+- 💼 Software Developer Intern at Vedanta IAS.
+- 🌱 Currently learning PHP, Laravel, JavaScript and React.js.
+- 💻 Interested in Frontend and Full Stack Development.
+- 🚀 Building projects to improve my development skills.
+
+### 🛠️ Technologies & Tools
+- **Languages:** JavaScript, PHP, HTML, CSS
+- **Frontend:** React.js, Bootstrap
+- **Backend:** Node.js, Express.js, Laravel
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Project
+
+**[EventMitra](https://github.com/12srishti34/EventMitra)**
+
+A collaborative MERN stack event planning platform for exploring event services and managing inquiries.
+
+### 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/srishti-chadha-07a55b223)
+- Email: srishtichadha02@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
