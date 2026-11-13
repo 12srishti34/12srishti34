@@ -22,8 +22,6 @@ I'm a BCA graduate passionate about building practical web applications and expl
 
 ## 📌 Featured Projects
 
-## 🚀 Featured Projects
-
 - **[EventMitra](https://github.com/12srishti34/EventMitra)** – A MERN Stack Event Management Platform designed to connect users with event service providers, explore services, and manage event-related inquiries.
 
 - **[WellMake Engineers](https://github.com/12srishti34/WellMake-Engineers)** – A Professional Business Website showcasing company services, information, and web-based user experiences.
