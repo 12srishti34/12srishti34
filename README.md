@@ -19,10 +19,12 @@ I'm passionate about web development and enjoy learning new technologies and bui
 - **Tools:** Git, GitHub, VS Code
 
 ### 📌 Featured Project
-
-**[EventMitra](https://github.com/12srishti34/EventMitra)**
-
-A collaborative MERN stack event planning platform for exploring event services and managing inquiries.
+EventMitra – MERN Stack Event Planning Platform
+CampusCare – Healthcare & Appointment Management Platform
+AI Article Generator – AI-powered Article Generation using n8n
+IAS Academy – PHP & MySQL Website
+UPSC Portal – PHP Practice Project
+Technical SEO Case Studies – AFTE & ApnaJobHai Performance Optimization
 
 ### 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/srishti-chadha-07a55b223)
