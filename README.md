@@ -19,23 +19,23 @@ I'm passionate about web development and enjoy learning new technologies and bui
 - **Tools:** Git, GitHub, VS Code
 
 ### 📌 Featured Project
-EventMitra – MERN Stack Event Planning Platform
+  EventMitra – MERN Stack Event Planning Platform
 
 
 
-CampusCare – Healthcare & Appointment Management Platform
+  CampusCare – Healthcare & Appointment Management Platform
 
 
 
-AI Article Generator – AI-powered Article Generation using n8n
+  AI Article Generator – AI-powered Article Generation using n8n
 
 
 
-IAS Academy – PHP & MySQL Website
+  IAS Academy – PHP & MySQL Website
 
 
 
-UPSC Portal – PHP Practice Project
+  UPSC Portal – PHP Practice Project
 
 
 
