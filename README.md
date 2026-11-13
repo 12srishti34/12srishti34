@@ -22,12 +22,21 @@ I'm a BCA graduate passionate about building practical web applications and expl
 
 ## 📌 Featured Projects
 
-- **[EventMitra](https://github.com/12srishti34/EventMitra)** – MERN Stack Event Planning Platform
-- **[CampusCare](https://github.com/12srishti34/CampusCare)** – Healthcare and Appointment Management Platform
-- **[AI Article Generator](https://github.com/12srishti34/AI-Article-Generator)** – AI-Powered Article Generation using n8n
-- **[IAS Academy](https://github.com/12srishti34/IAS-Academy)** – PHP and MySQL Based Website
-- **[UPSC Portal](https://github.com/12srishti34/UPSC-Portal)** – PHP-Based Web Application
-- **[Technical SEO Case Studies](https://github.com/12srishti34/Technical-SEO-Case-Studies)** – Website Performance Optimization and Technical SEO Case Studies
+## 🚀 Featured Projects
+
+- **[EventMitra](https://github.com/12srishti34/EventMitra)** – A MERN Stack Event Management Platform designed to connect users with event service providers, explore services, and manage event-related inquiries.
+
+- **[WellMake Engineers](https://github.com/12srishti34/WellMake-Engineers)** – A Professional Business Website showcasing company services, information, and web-based user experiences.
+
+- **[CampusCare](https://github.com/12srishti34/CampusCare)** – A Healthcare Management Platform featuring appointment booking, patient dashboards, mood tracking, wellness activities, and real-time communication.
+
+- **[AI Article Generator](https://github.com/12srishti34/AI-Article-Generator)** – An AI-powered content generation tool that uses n8n automation and Groq LLM integration to generate articles from user prompts.
+
+- **[IAS Academy](https://github.com/12srishti34/IAS-Academy)** – A PHP and MySQL-based educational website built to present academy information and provide a structured multi-page browsing experience.
+
+- **[UPSC Portal](https://github.com/12srishti34/UPSC-Portal)** – A PHP-based web application featuring web pages and form-based user interaction, developed as a hands-on backend practice project.
+
+- **[Technical SEO Case Studies](https://github.com/12srishti34/Technical-SEO-Case-Studies)** – Practical website optimization case studies documenting performance improvements, image optimization, caching, and Lighthouse audit results across two websites.
 
 ## 🔗 Connect With Me
 
