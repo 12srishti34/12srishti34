@@ -35,11 +35,11 @@ I'm passionate about web development and enjoy learning new technologies and bui
 
 
 
-  UPSC Portal – PHP Practice Project
+         UPSC Portal – PHP Practice Project
 
 
 
-Technical SEO Case Studies – AFTE & ApnaJobHai Performance Optimization
+         Technical SEO Case Studies – AFTE & ApnaJobHai Performance Optimization
 
 ### 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/srishti-chadha-07a55b223)
