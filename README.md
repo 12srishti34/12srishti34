@@ -20,25 +20,10 @@ I'm passionate about web development and enjoy learning new technologies and bui
 
 ### 📌 Featured Project
          EventMitra – MERN Stack Event Planning Platform
-
-
-
          CampusCare – Healthcare & Appointment Management Platform
-
-
-
          AI Article Generator – AI-powered Article Generation using n8n
-
-
-
          IAS Academy – PHP & MySQL Website
-
-
-
          UPSC Portal – PHP Practice Project
-
-
-
          Technical SEO Case Studies – AFTE & ApnaJobHai Performance Optimization
 
 ### 🔗 Connect With Me
