@@ -1,46 +1,51 @@
-# Hi, I'm Srishti Chadha! 👋
+# Srishti Chadha
 
-### Aspiring Software Developer | BCA Graduate | Web Development Enthusiast
+**BCA Graduate | Software Developer Intern | Web Application Development**
 
-I'm a BCA graduate passionate about building practical web applications and exploring modern development technologies. I enjoy learning through hands-on projects and continuously improving my programming and problem-solving skills.
+I am a BCA graduate based in New Delhi, India, with an interest in building web applications and working across frontend and backend technologies. I have worked on academic and independent projects involving web development, database integration, and automation.
 
-## 👩‍💻 About Me
+## About
 
-- 🎓 BCA Graduate from JIMS, GGSIPU, New Delhi.
-- 💼 Currently working as a Software Developer Intern at Vedanta IAS.
-- 🌱 Learning PHP, Laravel, JavaScript, and React.js.
-- 💻 Interested in Frontend and Full Stack Development.
-- 🚀 Building practical projects to strengthen my development skills.
+- BCA graduate from JIMS, GGSIPU University, New Delhi.
+- Currently working as a Software Developer Intern at Vedanta IAS.
+- Interested in frontend and full-stack web development.
+- Currently exploring PHP, Laravel, JavaScript, and MERN Stack.
+- Focused on building practical applications and strengthening my development fundamentals.
 
-## 🛠️ Technical Skills
+## Technologies
 
-- **Programming Languages:** JavaScript, PHP, HTML5, CSS3
-- **Frontend:** React.js, Bootstrap
-- **Backend:** Node.js, Express.js, Laravel
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code
+**Languages:** JavaScript, PHP, HTML, CSS
 
-## 📌 Featured Projects
+**Frontend:** React.js, Bootstrap
 
-- **[EventMitra](https://github.com/12srishti34/EventMitra)** – A MERN Stack Event Management Platform designed to connect users with event service providers, explore services, and manage event-related inquiries.
+**Backend:** Node.js, Express.js, Laravel
 
-- **[WellMake Engineers](https://github.com/12srishti34/WellMake-Engineers)** – A Professional Business Website showcasing company services, information, and web-based user experiences.
+**Databases:** MySQL, MongoDB
 
-- **[CampusCare](https://github.com/12srishti34/CampusCare)** – A Healthcare Management Platform featuring appointment booking, patient dashboards, mood tracking, wellness activities, and real-time communication.
+**Tools:** Git, GitHub, VS Code
 
-- **[AI Article Generator](https://github.com/12srishti34/AI-Article-Generator)** – An AI-powered content generation tool that uses n8n automation and Groq LLM integration to generate articles from user prompts.
+## Selected Projects
 
-- **[IAS Academy](https://github.com/12srishti34/IAS-Academy)** – A PHP and MySQL-based educational website built to present academy information and provide a structured multi-page browsing experience.
+### EventMitra
+A web-based event management project built using React.  
+[View Repository](https://github.com/12srishti34/EventMitra)
 
-- **[UPSC Portal](https://github.com/12srishti34/UPSC-Portal)** – A PHP-based web application featuring web pages and form-based user interaction, developed as a hands-on backend practice project.
+### CampusCare
+A student wellness platform featuring appointment booking, mood tracking, dashboards and real-time communication.  
+[View Repository](https://github.com/12srishti34/CampusCare)
 
-- **[Technical SEO Case Studies](https://github.com/12srishti34/Technical-SEO-Case-Studies)** – Practical website optimization case studies documenting performance improvements, image optimization, caching, and Lighthouse audit results across two websites.
+### WellMake Engineers
+A business website project focused on presenting company information and services through a web interface.  
+[View Repository](https://github.com/12srishti34/WellMake-Engineers)
 
-## 🔗 Connect With Me
+### Technical SEO Case Studies
+A collection of technical SEO and website performance optimization work, documented through Lighthouse audits and before-and-after comparisons.  
+[View Repository](https://github.com/12srishti34/Technical-SEO-Case-Studies)
 
-- **LinkedIn:** [Srishti Chadha](https://www.linkedin.com/in/srishti-chadha-07a55b223)
-- **Email:** [srishtichadha02@gmail.com](mailto:srishtichadha02@gmail.com)
+### Bolt RAG Chatbot
+An existing RAG chatbot assignment codebase that I worked on for debugging and troubleshooting as part of an interview task.  
+[View Repository](https://github.com/12srishti34/Bolt-rag-chatbot)
 
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
+## Contact
+[email](srishtichadha02@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/srishti-chadha-07a55b223/)
